@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bansound.github.io/sitemap
+Sitemap: https://bansound.github.io/app/sitemap
+Sitemap: https://bansound.github.io/assets/sitemap
+Sitemap: https://bansound.github.io/css/sitemap
+Sitemap: https://bansound.github.io/includes/sitemap
+Sitemap: https://bansound.github.io/item/sitemap
+Sitemap: https://bansound.github.io/src/sitemap
